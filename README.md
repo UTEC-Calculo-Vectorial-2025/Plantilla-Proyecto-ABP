@@ -28,8 +28,6 @@
 
 ### 2.2 Uso de herramienta CAS
 
-  👉 [Abrir en Google Colab](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/demo_animacion.ipynb)
-
 - Incluir aquí los gráficos elaborados con CAS (GeoGebra, Desmos, Matlab, etc.).
 - Explicar el significado de cada gráfico en relación con la solución.
 
