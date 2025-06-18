@@ -2,12 +2,15 @@
 
 ## Datos generales
 
-- **Nombre del proyecto**:  
-- **Integrantes** (Nombres y códigos):  
+- **Nombre del proyecto**:  Diseño de un túnel
+- **Integrantes** :
+     - Jessie Kiara Ibarra Campos **(202320214)**
+     - Rosa Elizabeth Merchan Baltodano **(202410479)**
+     - Nicolás Matias Vilavisencio Luna **(202410147)**
 - **Aula**: Teoría 1.01  
 - **Sala**: Sala 1 / 2 / 3  
-- **Grupo**: Grupo X
-- **Docente**: Nombre y Apellido  
+- **Grupo**: Grupo 3
+- **Docente**: Xyoby Chavez  
 
 ---
 
@@ -29,6 +32,7 @@
 ### 2.2 Uso de herramienta CAS
 
 - Incluir aquí los gráficos elaborados con CAS (GeoGebra, Desmos, Matlab, etc.).
+- 
 - Explicar el significado de cada gráfico en relación con la solución.
 
 ### 2.3 Explicación gráfica
